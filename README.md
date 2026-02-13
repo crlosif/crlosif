@@ -61,10 +61,6 @@ Full-stack and blockchain developer with a focus on **Rust** and blockchain tech
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crlosif)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🏆 Achievements
 
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" alt="Pull Shark"> <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" height="64" alt="Quickdraw"> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" height="64" alt="YOLO">
